@@ -191,7 +191,7 @@ Security visibility is integrated using **AWS GuardDuty findings**.
 ### Terraform Deployment
 
 ```
-![](./img/terraform-apply.png)
+![](./img/terraform-apply.png
 ```
 
 ---
