@@ -226,3 +226,7 @@ Possible enhancements:
 This project demonstrates how **AWS CloudWatch Dashboards can be used to build a centralized monitoring solution** for cloud infrastructure. By integrating services like **EC2, Lambda, Cost Explorer, and GuardDuty**, the dashboard provides visibility into **cost usage, application logs, network performance, and security insights**.  
 
 Using **Terraform for Infrastructure as Code (IaC)** enables automated and consistent deployment of the monitoring setup, aligning with modern **DevOps practices for observability and infrastructure management**.
+
+### Author
+
+Neha Pawar
